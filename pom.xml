@@ -8,7 +8,7 @@
 		<relativePath />
 	</parent>
 	<groupId>com.unir</groupId>
-	<artifactId>eureka</artifactId>
+	<artifactId>eureka-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>eureka</name>
 	<description>Servidor Eureka</description>
